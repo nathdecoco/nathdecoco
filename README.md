@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi there, I'm Ashton 👋
 
-<!--
-**nathdecoco/nathdecoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer passionate about building modern and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+- Angular
+- TypeScript
+- JavaScript
+- Java
+- Node.js
+- HTML5
+- Tailwind / SCSS
+- MySQL
+
+🌱 Currently Learning
+
+- Software Architecture
+- UI/UX Design Principles
+- Full-Stack Web Development
+
+📌 Projects
+
+- Attendix
+- Pollify
+- Liceo8888
+- Dentra
+
+📫 Connect With Me
+
+- Email: lactuanashton53@gmail.com
+
+---
+⭐ Always learning, building, and improving.
