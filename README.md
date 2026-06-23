@@ -18,7 +18,6 @@
 - Liceo8888
 - Dentra
 
----
 
 ## 🚀 Tech Stack
 
