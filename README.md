@@ -4,17 +4,6 @@
 
 💻 Aspiring Full-Stack Developer passionate about building modern and user-friendly web applications.
 
-🚀 Tech Stack
-
-- Angular
-- TypeScript
-- JavaScript
-- Java
-- Node.js
-- HTML5
-- Tailwind / SCSS
-- MySQL
-
 🌱 Currently Learning
 
 - Software Architecture
@@ -27,10 +16,13 @@
 - Pollify
 - Liceo8888
 - Dentra
-
-📫 Connect With Me
-
-- Email: lactuanashton53@gmail.com
+- 
+⭐ Always learning, building, and improving.
 
 ---
-⭐ Always learning, building, and improving.
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
